@@ -1,0 +1,4 @@
+﻿Conditions,Normal Range (Min),Normal Range (Max),To Reduce,To Increase,Consequence of reduced state ,Consequence of increased state 
+PH of Soil,5.5,6.5,"To reduce the pH of the soil, add aluminum sulfate or sulfuric acid.","To increase the pH of the soil, add powdered limestone.","It liberates aluminum,causing stunted root growth.",It causes gaps in nutrient availability and the presence of high concentrations of minerals that are harmful to plants. 
+Temperature (F),70,75,"To reduce the temperature in the greenhouse, fully open the roof vents.","To increase the tempertaure, increase the heat produced by heaters.","It decrease plant enzyme activity,disrupting plant nutrient intake.",It can cause plant water and nutrient uptake to be hindered.
+Water pH,6.2,6.5,"To reduce the water pH, add Hydrochloric acid."," To increase the water pH, add baking soda into a serving of water.",It causes delay plant development.,It can cause leaf spotting and burning.
